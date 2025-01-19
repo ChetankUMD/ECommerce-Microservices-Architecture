@@ -1,0 +1,13 @@
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\bin\Debug\net8.0\eCommerce.SharedLibrary.deps.json
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\bin\Debug\net8.0\eCommerce.SharedLibrary.dll
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\bin\Debug\net8.0\eCommerce.SharedLibrary.pdb
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.AssemblyInfoInputs.cache
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.AssemblyInfo.cs
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.csproj.CoreCompileInputs.cache
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.sourcelink.json
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.dll
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net8.0\refint\eCommerce.SharedLibrary.dll
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.pdb
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net8.0\ref\eCommerce.SharedLibrary.dll
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.SharedLibrarySolution\eCommerce.SharedLibrary\obj\Debug\net8.0\eCommerce.SharedLibrary.csproj.AssemblyReference.cache
