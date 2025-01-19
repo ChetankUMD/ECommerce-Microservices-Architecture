@@ -21,7 +21,7 @@ namespace eCommerce.SharedLibrary.Middleware
                 await next(context);
 
                 // Check if the Response are too many // 429 status code.
-                if (context.Response.StatusCode == StatusCodes.Status429TooManyRequests)
+                if (context .Response.StatusCode == StatusCodes.Status429TooManyRequests)
                 {
                     title = "Warning";
                     message = "Too many request made.";
