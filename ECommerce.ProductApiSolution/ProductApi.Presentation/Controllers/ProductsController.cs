@@ -34,7 +34,7 @@ namespace ProductApi.Presentation.Controllers
 
             // convert data from entity to DTO and return
             var (singleProduct, _) = ProductConversion.FromEntity(product, null!);
-            return singleProduct is not null ? Ok(singleProduct) : NotFound($"Product {id} not found");
+            return singleProduct is not null ? Ok(singleProduct) : NotFound($"Product {id} not found in database");
         }
 
         [HttpPost]
