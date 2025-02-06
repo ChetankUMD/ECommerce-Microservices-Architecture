@@ -1,0 +1,12 @@
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.ProductApiSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.deps.json
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.ProductApiSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.dll
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.ProductApiSolution\ProductApi.Domain\bin\Debug\net8.0\ProductApi.Domain.pdb
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.AssemblyInfoInputs.cache
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.AssemblyInfo.cs
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.sourcelink.json
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.dll
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\refint\ProductApi.Domain.dll
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ProductApi.Domain.pdb
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.ProductApiSolution\ProductApi.Domain\obj\Debug\net8.0\ref\ProductApi.Domain.dll
