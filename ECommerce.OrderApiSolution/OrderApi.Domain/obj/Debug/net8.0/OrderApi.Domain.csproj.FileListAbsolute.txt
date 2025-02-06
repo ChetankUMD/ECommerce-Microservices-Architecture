@@ -1,0 +1,12 @@
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.OrderApiSolution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.deps.json
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.OrderApiSolution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.dll
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.OrderApiSolution\OrderApi.Domain\bin\Debug\net8.0\OrderApi.Domain.pdb
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.AssemblyInfoInputs.cache
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.AssemblyInfo.cs
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.csproj.CoreCompileInputs.cache
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.sourcelink.json
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.dll
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\refint\OrderApi.Domain.dll
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\OrderApi.Domain.pdb
+C:\Projects\ECommerce-Microservices-Architecture\ECommerce.OrderApiSolution\OrderApi.Domain\obj\Debug\net8.0\ref\OrderApi.Domain.dll
