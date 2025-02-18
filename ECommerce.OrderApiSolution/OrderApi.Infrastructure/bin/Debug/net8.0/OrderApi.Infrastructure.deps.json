@@ -871,7 +871,7 @@
       "OrderApi.Application/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Http": "9.0.1",
-          "OrderApi.Domain.": "1.0.0",
+          "OrderApi.Domain": "1.0.0",
           "Polly.Core": "8.5.2",
           "Polly.Extensions": "8.5.2",
           "eCommerce.SharedLibrary": "1.0.0"
@@ -883,9 +883,9 @@
           }
         }
       },
-      "OrderApi.Domain./1.0.0": {
+      "OrderApi.Domain/1.0.0": {
         "runtime": {
-          "OrderApi.Domain..dll": {
+          "OrderApi.Domain.dll": {
             "assemblyVersion": "1.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -1413,7 +1413,7 @@
       "serviceable": false,
       "sha512": ""
     },
-    "OrderApi.Domain./1.0.0": {
+    "OrderApi.Domain/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

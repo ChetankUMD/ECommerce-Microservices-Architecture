@@ -18,7 +18,7 @@ namespace OrderApi.Application.DTOs.Conversions
             PurchaseQuantity = order.PurchaseQuantity,
         };
 
-        public static (OrderDTO?, IEnumerable<OrderDTO>?) FromEntity(Order? order, IEnumerable<OrderDTO>? orders)
+        public static (OrderDTO?, IEnumerable<OrderDTO>?) FromEntity(Order? order, IEnumerable<Order>? orders)
         {
             // return single
             if(order is not null || orders is null)
@@ -42,7 +42,7 @@ namespace OrderApi.Application.DTOs.Conversions
                     o.ClientId,
                     o.ProductId,
                     o.PurchaseQuantity,
-                    o.OrderDate));
+                    o.OrderedDate));
 
                 return (null, _orders);
             }

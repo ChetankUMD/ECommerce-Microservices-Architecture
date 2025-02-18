@@ -42,8 +42,7 @@
               "RelativeToolTip": "eCommerce.SharedLibrary\\Responses\\Response.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T21:30:14.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T21:30:14.082Z"
             },
             {
               "$type": "Document",
@@ -55,8 +54,7 @@
               "RelativeToolTip": "eCommerce.SharedLibrary\\Middleware\\GlobalException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T21:18:13.14Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T21:18:13.14Z"
             },
             {
               "$type": "Document",
@@ -81,21 +79,19 @@
               "RelativeToolTip": "eCommerce.SharedLibrary\\DependencyInjection\\JWTAuthenticationScheme.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T02:54:53.199Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T02:54:53.199Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "eCommerce.SharedLibrary",
+              "Title": "eCommerce.SharedLibrary.csproj",
               "DocumentMoniker": "C:\\Projects\\ECommerce-Microservices-Architecture\\ECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
               "RelativeDocumentMoniker": "eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
               "ToolTip": "C:\\Projects\\ECommerce-Microservices-Architecture\\ECommerce.SharedLibrarySolution\\eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
               "RelativeToolTip": "eCommerce.SharedLibrary\\eCommerce.SharedLibrary.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-01-21T02:49:17.351Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T02:49:17.351Z"
             }
           ]
         }

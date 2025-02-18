@@ -68,7 +68,7 @@ namespace OrderApi.Application.Services
         public async Task<IEnumerable<OrderDTO>> GetOrdersByClientId(int clientId)
         {
             // Get all client's orders
-            var orders = await orderInterface.GetOrderdAsync(o=> o.ClientId == clientId);
+            var orders = await orderInterface.GetOrderAsync(o=> o.ClientId == clientId);
             if (!orders.Any()) return null!;
 
             // Convert from entity to DTO
